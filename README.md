@@ -1,4 +1,7 @@
-Vx.x.x (Base PKGBUILD Version) (Tweaks) (XMCL Version)
+Vx.y.z
+(X: Base PKGBUILD Version)
+(Y: Tweaks)
+(Z: XMCL Version)
 
 Unzip as ~/cj-OwO
 Folder must include update.sh and xmcl-update.sh
