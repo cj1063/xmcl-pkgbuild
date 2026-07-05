@@ -14,6 +14,7 @@
 # Maintainer: Chizuru-Kagurazaka <chizuru-mtf@outlook.com>
 # Maintainer: bilibili_xiaok <the_xiaok@qq.com>¬
 # Maintainer: Volodia Kraplich <v1mkss.m@gmail.com>
+# V1 of me maintining it (ogyun) (this is a test for a script)
 pkgname=xmcl-launcher
 pkgver=0.61.0
 pkgrel=2
