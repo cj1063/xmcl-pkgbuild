@@ -1,7 +1,7 @@
 Vx.y.z
 
-(X: Base PKGBUILD Version)
-(Y: Tweaks)
+(X: Base PKGBUILD Version) 
+(Y: Tweaks) 
 (Z: XMCL Version)
 
 Unzip as ~/cj-OwO
